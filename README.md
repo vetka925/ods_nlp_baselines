@@ -4,7 +4,7 @@
 
 
 ## Classification task
-[Notebook]()
+[Notebook](https://github.com/vetka925/ods_nlp_baselines/blob/master/disaster_tweets.ipynb)
 
 Here is an overview of the most useful baselines in the text classification task. This notebook includes data and task overview, feature extraction, training algorithms of Logistic regression, Fully connected neural network (FNN), Convolutional neural network (CNN), BERT.
 
