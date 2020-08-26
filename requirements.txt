@@ -1,0 +1,12 @@
+nltk
+numpy
+pandas
+joblib
+scikit-learn
+scipy
+tqdm
+textvec
+seaborn
+matplotlib
+torch
+pytorch-lightning
