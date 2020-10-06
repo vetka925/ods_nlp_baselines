@@ -2,4 +2,4 @@
 .ipynb_checkpoints
 venv/
 /my_data/
-disaster_tweets.ipynb
+!/disaster_tweets.ipynb
