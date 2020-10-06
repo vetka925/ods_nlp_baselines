@@ -169,7 +169,7 @@ class BaseAutoClassifier:
         base.vectorizers_prepare()
         self.vectorizers = base.vectorizers
         self.report_df = base.model_selection_report()
-        return
+        return self.report_df
 
     def best_classifier_vectorizer(self, scoring_func_name):
         assert self.report_df is not None, "No classifaction report. Use get_report()"
